@@ -17,22 +17,26 @@ A public shared document will be created to capture all the feedback associated 
 
 *************** Below are the comment threads that will be created for burners to reply to:
 
-> Wild Media Capture: A concept that helps simplify the context in which we capture media. In our (theme) camps it is much simpler to control media capture. We can know everybody and it's possible to get full consent of every person. Elsewhere, in the wild, things are very different. Outside our camp, or when our camp is open for play, the task of getting full consent becomes difficult, if not impossible.
+Wild Media Capture: A concept that helps simplify the context in which we capture media. In our (theme) camps it is much simpler to control media capture. We can know everybody and it's possible to get full consent of every person. Elsewhere, in the wild, things are very different. Outside our camp, or when our camp is open for play, the task of getting full consent becomes difficult, if not impossible.
 
-What do you think of this concept as part of a guide? Is it easy to understand and useful to guide burners in this space? What other views do you have?
+> What do you think of this concept as part of a guide? Is it easy to understand and useful to guide burners in this space? What other views do you have?
 
-> Consent: The big one. Capturing media of anyone without their consent is a big no no. So is using the media in any way which the subjects do not agree to. The grey area here is that some people like spontaneity with their media captures because it is the only way to really capture the moment. This is alleviated by thorough post-capture consent, of every subject in the media. Spontaneous media capturing is linked directly to the immediacy principle and there is no way to know if yet to be consented people like having a lens pointed at them, let alone their image captured. Most can agree that pre consent is totally fine, the main issue here is the spontaneity/post capture consent aspect.
+Consent: The big one. Capturing media of anyone without their consent is a big no no. So is using the media in any way which the subjects do not agree to. The grey area here is that some people like spontaneity with their media captures because it is the only way to really capture the moment. This is alleviated by thorough post-capture consent, of every subject in the media. Spontaneous media capturing is linked directly to the immediacy principle and there is no way to know if yet to be consented people like having a lens pointed at them, let alone their image captured. Most can agree that pre consent is totally fine, the main issue here is the spontaneity/post capture consent aspect.
 
-How do you feel about post capture consent? What other views do you have?
+> How do you feel about post capture consent? What other views do you have?
 
-> Ownership of content: When media is captured of individuals, with full consent, the media capturer has first ownership of the media. This does not mean that the image can be used for commercial reasons without the subjects explicit permission.
+Ownership of content: When media is captured of individuals, with full consent, the media capturer has first ownership of the media. This does not mean that the image can be used for commercial reasons without the subjects explicit permission.
 
-Do you understand this legal implication, both as a media capturer and as a subject? Do you think some terms/conditions should be created for burn events which attempt to change this legality? What other views do you have?
+> Do you understand this legal implication, both as a media capturer and as a subject? Do you think some terms/conditions should be created for burn events which attempt to change this legality? What other views do you have?
 
-> Use of content: Once images are uploaded to the internet, intentionally or via backup to storage platforms, they become accessible to hosting providers. Some providers scan images using AI to identify faces and use this data to build profiles of people. Even if they don't currently scan images, they may do so in the future. Providers may have security holes which eventually leak media to malicious agents. Some media capturers may benefit commercially, either directly or indirectly. Family, loved ones or employers may end up seeing media you agreed to be the subject of, but did not agree to be shared.
+Use of content: Once images are uploaded to the internet, intentionally or via backup to storage platforms, they become accessible to hosting providers. Some providers scan images using AI to identify faces and use this data to build profiles of people. Even if they don't currently scan images, they may do so in the future. Providers may have security holes which eventually leak media to malicious agents. Some media capturers may benefit commercially, either directly or indirectly. Family, loved ones or employers may end up seeing media you agreed to be the subject of, but did not agree to be shared.
 
-What are you comfortable with? What sort of control do you expect to have after the moment of capture? What other views do you have?
+> What are you comfortable with? What sort of control do you expect to have after the moment of capture? What other views do you have?
 
-> META: What do you think about this post and the proposal to try and create a guide which helps alleviate the burden on media capturers? What other views do you have?
+META: The formula of this discussion.
 
-> Rant: Just rant about the subject to let off steam. Look like a complete asshat if you must, but don't bottle up the way you feel about being violated, or guard how much you love straight to insta, livestreams, and everything in between.
+> What do you think about this post and the proposal to try and create a guide which helps alleviate the burden on media capturers? What other views do you have?
+
+Rant: Just rant about the subject to let off steam. Look like a complete asshat if you must, but don't bottle up the way you feel about being violated, or guard how much you love straight to insta, livestreams, and everything in between.
+
+> What do you want to rant about?
